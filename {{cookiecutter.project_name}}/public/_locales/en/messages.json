@@ -1,0 +1,6 @@
+{
+  "extName": {
+    "message": "{{cookiecutter.project_name}}",
+    "description": ""
+  }
+}

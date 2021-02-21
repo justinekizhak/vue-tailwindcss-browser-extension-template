@@ -1,0 +1,8 @@
+{
+  "project_name": "Vue TailwindCSS Web Extension",
+  "project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '-') }}",
+  "description": "A browser extension using VueJs and TailwindCss",
+  "author_name": "John Doe",
+  "author_email": "john@doe.com",
+  "license": ""
+}
