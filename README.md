@@ -12,7 +12,7 @@ Created using [Cookiecutter](https://cookiecutter.readthedocs.io/).
 ### I have Cookiecutter already installed
 
 ```sh
-cookiecutter gh:justinekizhak/vue-tailwind-browser-extension-template
+cookiecutter gh:justinekizhak/vue-tailwindcss-browser-extension-template
 ```
 
 ### I don't have Cookiecutter and I don't want to keep it after I have used it
@@ -34,7 +34,7 @@ Know more about [pipx](https://github.com/pipxproject/pipx).
 2. Run
 
 ```sh
-pipx run cookiecutter gh:justinekizhak/vue-tailwind-browser-extension-template
+pipx run cookiecutter gh:justinekizhak/vue-tailwindcss-browser-extension-template
 ```
 
 ### I don't mind Cookiecutter being installed
