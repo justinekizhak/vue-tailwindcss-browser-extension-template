@@ -1,6 +1,5 @@
 <template>
   <div>
-    <p>{{ defaultText }}</p>
     <div class="text-xl bg-blue-500">hello</div>
   </div>
 </template>
